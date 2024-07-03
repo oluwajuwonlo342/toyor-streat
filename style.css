@@ -1,0 +1,51 @@
+   /* *{
+  font-family: "Sanchez", serif;
+
+    }
+    body{
+        background: #F275A3 url(assest/background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #F275A3;
+        height: 50vh;
+    }
+.navbar-nav{
+    margin-left: 60px;
+}
+#con{
+    padding-left: 75px;
+}
+#link{
+    padding-right: 75px;
+}
+.head-text{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 20%;
+}
+.para-text{
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+    font-size: 25px;
+}
+#BACK{
+    background-color: white;
+    padding-left: 95px;
+    height: 10vh;
+    padding-top: 2%;
+
+    font-weight: bold;
+    margin-top: 41%;
+}
+.con1{
+    width: 50%;
+    height: 50%;
+    margin-top: 3%;
+}
+.img2{
+    width: 50vw;
+    height: 50vh;
+} */
